@@ -1,0 +1,481 @@
+{"id": "020bfcdf", "subject": "administration", "relation": "in", "object": "sector-d", "evidence": ["half-life/C1A2_1"]}
+{"id": "024c9e1a", "subject": "sterilization-chamber", "relation": "exists", "evidence": ["half-life/C2A4_7"]}
+{"id": "02711a4c", "subject": "sector-c-line", "relation": "serves", "object": "sector-c", "evidence": ["blue-shift/texture/{sector_c_01"]}
+{"id": "02968ac8", "subject": "administration-sub-level-2", "relation": "in", "object": "administration", "evidence": ["black-mesa/caption/C1A0_05", "half-life/C1A0_2"]}
+{"id": "02c21e5c", "subject": "disposal", "relation": "exists", "evidence": ["opposing-force/texture/sign_access_01"]}
+{"id": "03f7357d", "subject": "reserve-coolant-basin", "relation": "exists", "evidence": ["blue-shift/texture/ba_power_03"]}
+{"id": "0575533b", "subject": "cafeteria", "relation": "exists", "evidence": ["half-life/texture/signc1a2_4", "half-life/texture/signc1a2_6"]}
+{"id": "05a45092", "subject": "satellite-signal-room", "relation": "near", "object": "level-3-dormitories", "evidence": ["ps2-decay/voice/dk_05_mustseal"]}
+{"id": "05d3480b", "subject": "south-tunnel", "relation": "exists", "evidence": ["blue-shift/texture/sign_s_tnnl"]}
+{"id": "05d4bea7", "subject": "train-hub-d", "relation": "serves", "object": "sector-d", "evidence": ["half-life/texture/signc2a1_2"]}
+{"id": "060f968a", "subject": "tram-control-station-c", "relation": "in", "object": "sector-h", "evidence": ["echoes/texture/prxtramsigns"]}
+{"id": "06ad4aa4", "subject": "hydrofauna-studies-lab", "relation": "exists", "evidence": ["opposing-force/texture/sign_h2o_labs"]}
+{"id": "06ebd412", "subject": "sewage-overflow-control", "relation": "exists", "evidence": ["opposing-force/texture/sign_overflow"]}
+{"id": "0706c171", "subject": "radioactive-materials-handling-bay", "relation": "exists", "evidence": ["half-life/C1A0_1"]}
+{"id": "07b3b06b", "subject": "tram", "relation": "tram stop", "object": "level-3-dormitories", "evidence": ["ps2-decay/voice/dk_05_gotodorms"]}
+{"id": "09084cc6", "subject": "storage-halls", "relation": "points", "value": 180, "evidence": ["black-mesa/texture/signs/oc_sign"]}
+{"id": "0a79795d", "subject": "tunnel-access", "relation": "exists", "evidence": ["opposing-force/texture/door_tunl"]}
+{"id": "0aba4956", "subject": "radioactive-materials-handling-bay", "relation": "in", "object": "lambda-reactor-complex", "evidence": ["half-life/comment/C3A2", "half-life/texture/c3a2sign02"]}
+{"id": "0ac44840", "subject": "prop-lab-01", "relation": "in", "object": "experimental-propulsion-lab", "evidence": ["half-life/texture/c1a4_dr4a"]}
+{"id": "0c462b57", "subject": "tow-engine-bay-5", "relation": "in", "object": "freight-yard", "evidence": ["blue-shift/texture/ba_sign_31"]}
+{"id": "0ca36c1e", "subject": "lower-canal", "relation": "exists", "evidence": ["black-mesa/texture/signs/sign_lower_canal", "half-life/texture/signc1a1_4"]}
+{"id": "0d78c41d", "subject": "radioactive-materials-handling-bay", "relation": "points", "value": 0, "evidence": ["half-life/texture/c3a2sign02"]}
+{"id": "0dba9776", "subject": "sector-c-lobby", "relation": "leads to", "object": "sector-b", "evidence": ["black-mesa/caption/am.grd04.wrongairlock01"]}
+{"id": "0df9738c", "subject": "video-surveillance", "relation": "in", "object": "area-3-security", "evidence": ["blue-shift/texture/ba_sign_wall3"]}
+{"id": "0eaae2eb", "subject": "area-9-security-checkpoint", "relation": "in", "object": "area-9-transit-hub", "evidence": ["blue-shift/texture/{security_01"]}
+{"id": "1038261b", "subject": "coolant-maintenance-area", "relation": "exists", "evidence": ["half-life/C1A1_3"]}
+{"id": "10bd5d0a", "subject": "employee-parking", "relation": "points", "value": 0, "evidence": ["opposing-force/texture/sign_direct_01"]}
+{"id": "10fd1a15", "subject": "coolant-reservoir", "relation": "in", "object": "power-coolant-facility", "evidence": ["opposing-force/texture/bm_sign_dir_01"]}
+{"id": "132a4296", "subject": "area-3-checkpoint", "relation": "in", "object": "area-3-security", "evidence": ["black-mesa/texture/decals/signs/white_area3checkpoint"]}
+{"id": "13c118ac", "subject": "power-unit-2", "relation": "exists", "evidence": ["half-life/texture/sign78"]}
+{"id": "13c1b572", "subject": "launch-control", "relation": "in", "object": "silo-e", "evidence": ["half-life/comment/C2A2"]}
+{"id": "1402305f", "subject": "hazardous-materials-bay-b", "relation": "in", "object": "lambda-reactor-complex", "evidence": ["half-life/texture/c3a2sign05"]}
+{"id": "14050872", "subject": "primary-laser", "relation": "exists", "evidence": ["half-life/texture/c2a4_sign4"]}
+{"id": "1455c307", "subject": "red-line", "relation": "serves", "object": "level-3-dormitories", "evidence": ["blue-shift/texture/tram_map_01", "decay/texture/tram_map_01"]}
+{"id": "14b116e2", "subject": "aquatic-training", "relation": "in", "object": "training-facility", "evidence": ["half-life/texture/trrm_sign3"]}
+{"id": "1548a900", "subject": "sector-i", "relation": "exists", "evidence": ["echoes/texture/prxch0signs4"]}
+{"id": "1654a1b5", "subject": "qe-bio-lab", "relation": "points", "value": 0, "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_laba1"]}
+{"id": "16734176", "subject": "freight-yard", "relation": "connects", "object": "new-mexico-railroad-line", "evidence": ["blue-shift/texture/ba_sign_31"]}
+{"id": "169069ec", "subject": "sump-control", "relation": "exists", "evidence": ["half-life/texture/sign85"]}
+{"id": "16be03b7", "subject": "storage-unit-04", "relation": "exists", "evidence": ["opposing-force/texture/sign_storage04"]}
+{"id": "16d46f34", "subject": "older-industrial-areas", "relation": "leads to", "object": "lambda-complex", "evidence": ["half-life/voice/c2a3_sci_track"]}
+{"id": "1885a08d", "subject": "primary-dampening-lock", "relation": "above", "object": "transit-lines", "evidence": ["ps2-decay/voice/dk_04_primlock"]}
+{"id": "188db2a6", "subject": "access-shaft", "relation": "leads to", "object": "surface", "evidence": ["ps2-decay/voice/ro_02_madeit"]}
+{"id": "1958e36e", "subject": "coolant-reservoir", "relation": "points", "value": 180, "evidence": ["opposing-force/texture/bm_sign_dir_01"]}
+{"id": "19a6f5c5", "subject": "sector-d-admin-3", "relation": "in", "object": "office-complex", "evidence": ["black-mesa/texture/signs/secd_admin3"]}
+{"id": "19e59d61", "subject": "sector-c", "relation": "exists", "evidence": ["half-life/C1A1_6"]}
+{"id": "1a14b692", "subject": "sector-h", "relation": "exists", "evidence": ["echoes/texture/prxch0signs4"]}
+{"id": "1a3e63b6", "subject": "storage-area-3", "relation": "exists", "evidence": ["half-life/texture/{c1a3_red3", "opposing-force/texture/sign_direct_01", "opposing-force/texture/sign_str_03"]}
+{"id": "1b117c30", "subject": "orange-flag-room", "relation": "points", "value": 0, "evidence": ["opposing-force/texture/bm_sign_dir_01"]}
+{"id": "1b2136d2", "subject": "old-decommissioned-rail", "relation": "leads to", "object": "satellite-rocket-loading-bay", "evidence": ["half-life/voice/c2a2_ba_launch"]}
+{"id": "1c19d2d6", "subject": "lambda-maintenance-station", "relation": "points", "value": 0, "evidence": ["half-life/texture/c3a2sign10"]}
+{"id": "1c305d35", "subject": "lambda-complex", "relation": "exists", "evidence": ["black-mesa/texture/decals/c3a1a_lambda_complex", "half-life/C3A1_8"]}
+{"id": "1c467dc8", "subject": "auxiliary-generator", "relation": "exists", "evidence": ["blue-shift/texture/sign_aux_gen_01"]}
+{"id": "1d8f55c7", "subject": "high-security-areas", "relation": "in", "object": "anomalous-materials-laboratory", "evidence": ["blue-shift/manual/14-memorandum"]}
+{"id": "1e2b1cf8", "subject": "experimental-propulsion-lab", "relation": "in", "object": "silo-d", "evidence": ["half-life/comment/C1A4"]}
+{"id": "1e8edcbb", "subject": "sector-b", "relation": "exists", "evidence": ["half-life/C1A1_6"]}
+{"id": "20f4b444", "subject": "conveyor-control", "relation": "exists", "evidence": ["half-life/texture/c2a4b_sign1"]}
+{"id": "20fa4a41", "subject": "hydro-plant", "relation": "exists", "evidence": ["half-life/C1A0_12"]}
+{"id": "21d0c736", "subject": "displacement-beacon", "relation": "near", "object": "gamma-labs", "evidence": ["ps2-decay/voice/dk_10_receiving"]}
+{"id": "2200b74c", "subject": "pump-gearbox", "relation": "exists", "evidence": ["opposing-force/texture/sign_pump_ax"]}
+{"id": "236c1006", "subject": "test-lab-c-33a", "relation": "in", "object": "sector-c", "evidence": ["half-life/texture/sign51"]}
+{"id": "26706f85", "subject": "black-mesa-transport-hub", "relation": "exists", "evidence": ["echoes/texture/prxch0sign"]}
+{"id": "267740b1", "subject": "storage-halls", "relation": "exists", "evidence": ["black-mesa/texture/signs/oc_sign"]}
+{"id": "27321930", "subject": "central-complex", "relation": "connects", "object": "lambda-complex", "evidence": ["uplinked/texture/cencomsign"]}
+{"id": "2b076497", "subject": "green-line", "relation": "serves", "object": "level-1-main-facility-entrance", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "2b6da4ed", "subject": "biodome-control-room", "relation": "in", "object": "biodome-complex", "evidence": ["decay/texture/dy_gamma_w1d1", "opposing-force/texture/sign_bio_access"]}
+{"id": "2bd7c6f9", "subject": "communications-facility", "relation": "exists", "evidence": ["echoes/texture/prxmapcomm"]}
+{"id": "2bf4a29a", "subject": "sector-j", "relation": "tram to", "object": "sector-l", "evidence": ["echoes/texture/prxch1trammap"]}
+{"id": "2c687436", "subject": "supply-b-101", "relation": "in", "object": "lambda-reactor-complex", "evidence": ["half-life/texture/c3a2sign34"]}
+{"id": "2e802b42", "subject": "personnel-dormitories", "relation": "in", "object": "area-4", "evidence": ["blue-shift/manual/14-schedule"]}
+{"id": "2ff2927f", "subject": "anomalous-materials-laboratory", "relation": "in", "object": "area-3", "evidence": ["blue-shift/manual/14-schedule"]}
+{"id": "30fdaa04", "subject": "checkpoint-alpha", "relation": "in", "object": "topside", "evidence": ["half-life/C2A4_9", "half-life/comment/C2A5"]}
+{"id": "3145a133", "subject": "waste-disposal-control", "relation": "exists", "evidence": ["decay/HT01_8"]}
+{"id": "314e960d", "subject": "sector-e-administration", "relation": "in", "object": "sector-e", "evidence": ["field-intensity/texture/sign_sector_e"]}
+{"id": "319c0084", "subject": "qe-autopsy", "relation": "exists", "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_lobby2"]}
+{"id": "324e8870", "subject": "motorpool", "relation": "in", "object": "topside", "evidence": ["half-life/C1A0_21", "half-life/comment/C2A5"]}
+{"id": "326f898d", "subject": "administration-sub-level-1", "relation": "in", "object": "administration", "evidence": ["half-life/C1A0_16"]}
+{"id": "32a9c026", "subject": "sector-e-subsurface-transport", "relation": "in", "object": "sector-e", "evidence": ["opposing-force/texture/c2a2a_sign2b"]}
+{"id": "32c1c77e", "subject": "silo-1", "relation": "exists", "evidence": ["black-mesa/label/bm_c2a3a/a - silo1"]}
+{"id": "32c6d54d", "subject": "sector-b", "relation": "is", "object": "coolant-reserve", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "33451798", "subject": "north-tunnel", "relation": "exists", "evidence": ["blue-shift/texture/sign_n_tnnl"]}
+{"id": "33a8649b", "subject": "lambda-reactor-complex", "relation": "exists", "evidence": ["half-life/C1A0_4", "half-life/texture/c3a2sign01"]}
+{"id": "341c7baa", "subject": "mechanized-infantry-repair-bay", "relation": "exists", "evidence": ["half-life/texture/c3a1_sign1"]}
+{"id": "343ed8ba", "subject": "yellow-line", "relation": "serves", "object": "high-altitude-launch-center", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "34432bcf", "subject": "exec-lounge", "relation": "exists", "evidence": ["black-mesa/texture/signs/oc_sign", "half-life/texture/signc1a2_6"]}
+{"id": "354ddac0", "subject": "car-park", "relation": "in", "object": "topside", "evidence": ["black-mesa/texture/decals/carpark_l1"]}
+{"id": "3656fc01", "subject": "sector-d-admin-1", "relation": "in", "object": "office-complex", "evidence": ["black-mesa/texture/signs/secd_admin1"]}
+{"id": "368858fb", "subject": "admin-offices", "relation": "exists", "evidence": ["half-life/texture/signc1a2_6"]}
+{"id": "36cc06a3", "subject": "biodome-drainage-system", "relation": "in", "object": "biodome-complex", "evidence": ["opposing-force/texture/sign_bio_drain"]}
+{"id": "36ef2f55", "subject": "qe-autopsy", "relation": "points", "value": 0, "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_lobby2"]}
+{"id": "38303edd", "subject": "lambda-core-level-c", "relation": "in", "object": "main-reactor-core", "evidence": ["half-life/texture/c3a2sign31"]}
+{"id": "3847f4ec", "subject": "level-3", "relation": "exists", "evidence": ["blue-shift/VOX_ELEV1", "decay/HT05_0"]}
+{"id": "38582493", "subject": "waste-processing-area-3", "relation": "exists", "evidence": ["half-life/texture/c2a5g_sign1", "half-life/texture/{c2a5g"]}
+{"id": "38c9cd7b", "subject": "administration-center", "relation": "in", "object": "sector-d", "evidence": ["half-life/comment/C1A2"]}
+{"id": "39b5d52d", "subject": "alien-quarantine-labs", "relation": "exists", "evidence": ["ps2-decay/voice/dk_11_upstairs"]}
+{"id": "3a1ceb32", "subject": "blue-line", "relation": "serves", "object": "area-9-transit-hub", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "3a8fc0f1", "subject": "supply-b-301", "relation": "in", "object": "lambda-reactor-complex", "evidence": ["half-life/texture/c3a2sign37"]}
+{"id": "3ba62fa6", "subject": "sector-l", "relation": "exists", "evidence": ["echoes/texture/prxch0signs4"]}
+{"id": "3bc9807a", "subject": "silo-d-control", "relation": "in", "object": "silo-d", "evidence": ["black-mesa/texture/decals/signs/decalsignc1a4control"]}
+{"id": "3c0f0252", "subject": "gamma-x-ray", "relation": "exists", "evidence": ["opposing-force/texture/sign_gamma"]}
+{"id": "3c763bbb", "subject": "satellite-operations", "relation": "exists", "evidence": ["decay/texture/sign53b", "half-life/texture/sign53a"]}
+{"id": "3d6570db", "subject": "silo-d-02", "relation": "in", "object": "silo-d", "evidence": ["half-life/texture/c1a4_sign1b"]}
+{"id": "3d7a5bb0", "subject": "sector-c", "relation": "modelled on", "object": "nasa-control-rooms", "evidence": ["hl-25th-documentary/documentary/32-23"]}
+{"id": "3da51b74", "subject": "security-checkpoint", "relation": "exists", "evidence": ["decay/HT05_3"]}
+{"id": "3dce26bc", "subject": "lambda-complex", "relation": "across from", "object": "sector-c", "evidence": ["black-mesa/caption/wgh.sci05.transitsystemout01", "half-life/voice/c1a4_sci_trust"]}
+{"id": "3e3449dc", "subject": "old-power-generators", "relation": "below", "object": "old-prototype-labs", "evidence": ["blue-shift/voice/ro_tele_power5"]}
+{"id": "3fa42300", "subject": "registration-scan", "relation": "exists", "evidence": ["decay/texture/wall_strp_08"]}
+{"id": "3fe3b429", "subject": "storm-drain", "relation": "points", "value": 270, "evidence": ["half-life/texture/c2a5w_sign"]}
+{"id": "40086cf8", "subject": "sector-d-generator", "relation": "in", "object": "sector-d", "evidence": ["half-life/texture/signc2a1_1"]}
+{"id": "422ca340", "subject": "silo-d-01", "relation": "in", "object": "silo-d", "evidence": ["black-mesa/texture/signs/c1a4_sign_red", "half-life/texture/c1a4_sign1a"]}
+{"id": "433c1883", "subject": "track-control", "relation": "in", "object": "sector-e", "evidence": ["black-mesa/caption/C1A4_1", "half-life/C1A4_1", "half-life/comment/C2A1"]}
+{"id": "43ebd654", "subject": "secondary-dampening-locks", "relation": "above", "object": "primary-dampening-lock", "evidence": ["ps2-decay/voice/dk_04_otherdamp"]}
+{"id": "44409da2", "subject": "landing-field", "relation": "leads to", "object": "lambda-complex", "evidence": ["half-life/voice/c2a5_sci_lebuz"]}
+{"id": "451f9772", "subject": "cross-dimensional-netting-ground", "relation": "exists", "evidence": ["ps2-decay/voice/dk_12_netting"]}
+{"id": "45cd9c56", "subject": "dorm-rooms-301-to-306", "relation": "in", "object": "dorms-south-wing", "evidence": ["decay/texture/sign_dorm_s"]}
+{"id": "46452508", "subject": "high-security-file-room", "relation": "across from", "object": "area-9-transit-hub", "evidence": ["ps2-decay/voice/ba_ht07_10"]}
+{"id": "46794657", "subject": "research-administration-center", "relation": "exists", "evidence": ["opposing-force/C1A0_6"]}
+{"id": "46c43438", "subject": "dorms-south-wing", "relation": "in", "object": "level-3-dormitories", "evidence": ["decay/texture/sign_dorm_south", "field-intensity/texture/sign_map_dorms"]}
+{"id": "46e0068f", "subject": "air-control-basement", "relation": "in", "object": "air-control-building", "evidence": ["ps2-decay/voice/dk_07_basement"]}
+{"id": "4746c24d", "subject": "aero-bays", "relation": "in", "object": "central-complex", "evidence": ["half-life/texture/signc3a1_5a", "uplinked/texture/cencomsign"]}
+{"id": "48156055", "subject": "sector-a-wall-map", "relation": "in", "object": "sector-a", "evidence": ["induction/texture/sign_sector_a"]}
+{"id": "48458ae3", "subject": "area-8-topside-dormitories", "relation": "tram to", "object": "area-9-transit-hub", "evidence": ["blue-shift/voice/ba_tram2"]}
+{"id": "48c8b5a2", "subject": "h-e-particle-labs", "relation": "exists", "evidence": ["blue-shift/texture/ba_sign_wall1"]}
+{"id": "48f4bb3a", "subject": "tram", "relation": "serves", "object": "sector-g", "evidence": ["blue-shift/voice/sc_maint"]}
+{"id": "49ee4f96", "subject": "test-chamber", "relation": "below", "object": "sector-c-lobby", "evidence": ["half-life/voice/c1a0_ba_desk"]}
+{"id": "4a0196d6", "subject": "vehicle-repair", "relation": "exists", "evidence": ["opposing-force/texture/sign_direct_01"]}
+{"id": "4ae1fe0b", "subject": "primary-reactor", "relation": "exists", "evidence": ["half-life/C1A0_18"]}
+{"id": "4b1d3319", "subject": "hazard-course", "relation": "leads to", "object": "elevator-maintenance-area", "evidence": ["ps2-decay/voice/ro_02_elevator"]}
+{"id": "4b1ee38c", "subject": "cencom-ventilation-2", "relation": "in", "object": "central-complex", "evidence": ["uplinked/texture/signshaft"]}
+{"id": "4b7a5260", "subject": "sector-c-line", "relation": "tram stop", "object": "area-9-security-checkpoint", "evidence": ["blue-shift/voice/ba_tram5"]}
+{"id": "4bbd1437", "subject": "entry-point-b-03", "relation": "near", "object": "drainage-canal", "evidence": ["blue-shift/texture/sign_b03"]}
+{"id": "4cf0f740", "subject": "transit-system", "relation": "leads to", "object": "surface", "evidence": ["opposing-force/voice/of1a2_rd01"]}
+{"id": "4d0fb2f9", "subject": "turret-defenses", "relation": "in", "object": "sector-d", "evidence": ["half-life/C1A2_6"]}
+{"id": "4d230a9e", "subject": "high-security-materials-storage", "relation": "exists", "evidence": ["half-life/C1A2_9", "half-life/texture/c1a3_sign2"]}
+{"id": "4d728b5a", "subject": "qe-lab-c", "relation": "points", "value": 180, "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_labd3"]}
+{"id": "4d85c024", "subject": "room-d-al-102", "relation": "exists", "evidence": ["half-life/texture/signc1a2_1b"]}
+{"id": "4d94aa5d", "subject": "specimen-containment-room", "relation": "in", "object": "biodome-complex", "evidence": ["opposing-force/texture/sign_bio_cont"]}
+{"id": "4e4f0868", "subject": "administration-offices", "relation": "in", "object": "area-2", "evidence": ["blue-shift/manual/14-schedule", "field-intensity/texture/fi_sign_ao"]}
+{"id": "4e8f34df", "subject": "personnel-facilities", "relation": "exists", "evidence": ["blue-shift/texture/ba_sign_wall2", "half-life/texture/c1a0_wdsign"]}
+{"id": "4ff67cf0", "subject": "hangar-16", "relation": "exists", "evidence": ["half-life/texture/sign88"]}
+{"id": "5023d36c", "subject": "extraction-point", "relation": "near", "object": "lambda-complex", "evidence": ["opposing-force/voice/of2a5_fg01"]}
+{"id": "507d4ee8", "subject": "lab-b-105", "relation": "in", "object": "lambda-reactor-complex", "evidence": ["half-life/texture/c3a2sign39"]}
+{"id": "508096aa", "subject": "specimen-observation-area-02", "relation": "in", "object": "biodome-complex", "evidence": ["opposing-force/texture/sign_bio_ob_02"]}
+{"id": "50a31309", "subject": "decay-cut-map-hub", "relation": "exists", "evidence": ["ps2-decay/graph/ht06hub"]}
+{"id": "511ce170", "subject": "comm-center", "relation": "in", "object": "communications-facility", "evidence": ["echoes/texture/prxsigntd1"]}
+{"id": "51685daa", "subject": "secure-access-corridor", "relation": "exists", "evidence": ["decay/texture/sign_secure_01"]}
+{"id": "5180a2df", "subject": "hydrofauna-studies-lab", "relation": "near", "object": "biodome-complex", "evidence": ["field-intensity/texture/sign_sector_e"]}
+{"id": "51857a99", "subject": "lab-b-104", "relation": "in", "object": "lambda-reactor-complex", "evidence": ["half-life/texture/c3a2sign38"]}
+{"id": "52379e55", "subject": "hydro-plant", "relation": "in", "object": "topside", "evidence": ["half-life/C3A1_9", "half-life/comment/C2A5"]}
+{"id": "523a0b25", "subject": "area-9-security-checkpoint", "relation": "leads to", "object": "area-9-transit-hub", "evidence": ["blue-shift/voice/ba_tram5"]}
+{"id": "527c03c5", "subject": "gamma-complex", "relation": "is", "object": "biological-specimen-storage-and-research", "evidence": ["field-intensity/texture/gamma_sign01"]}
+{"id": "52ae6176", "subject": "experimental-propulsion-lab", "relation": "exists", "evidence": ["half-life/C1A0_11"]}
+{"id": "5386d43b", "subject": "flow-control", "relation": "exists", "evidence": ["half-life/texture/c2a4_sign5"]}
+{"id": "53c3b754", "subject": "waste-station-02", "relation": "exists", "evidence": ["opposing-force/texture/door_sub_02"]}
+{"id": "54839de2", "subject": "black-mesa", "relation": "modelled on", "object": "missile-base", "evidence": ["raising-the-bar/book/33"]}
+{"id": "551397e3", "subject": "armory", "relation": "in", "object": "topside", "evidence": ["half-life/C3A1_2", "half-life/comment/C2A5"]}
+{"id": "555207e8", "subject": "lambda-core-level-a", "relation": "in", "object": "main-reactor-core", "evidence": ["half-life/texture/c3a2sign33", "half-life/texture/c3a2sign44"]}
+{"id": "55868c0c", "subject": "reactor-core-8", "relation": "exists", "evidence": ["opposing-force/C1A0_4"]}
+{"id": "55a23642", "subject": "vehicle-repair", "relation": "points", "value": 180, "evidence": ["opposing-force/texture/sign_direct_01"]}
+{"id": "566be11f", "subject": "dorm-cafeteria", "relation": "near", "object": "level-3-dormitories", "evidence": ["decay/texture/wall_strp_01"]}
+{"id": "568f7752", "subject": "waste-treatment", "relation": "exists", "evidence": ["black-mesa/texture/decals/signs/residue_processing_solid_waste_disposal"]}
+{"id": "576a2324", "subject": "cencom-bay-3", "relation": "in", "object": "central-complex", "evidence": ["black-mesa/texture/decals/signs/c3a1a_sign_cencom_bay3", "half-life/texture/signc3a1_4a"]}
+{"id": "57a94632", "subject": "qe-lab-c", "relation": "exists", "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_labd3"]}
+{"id": "583d3aff", "subject": "cencom-reservoir", "relation": "in", "object": "central-complex", "evidence": ["half-life/texture/signc3a1_5b"]}
+{"id": "58b1765c", "subject": "level-5", "relation": "exists", "evidence": ["blue-shift/VOX_ELEV1"]}
+{"id": "5911b74e", "subject": "waste-station-01", "relation": "exists", "evidence": ["opposing-force/texture/door_sub_01"]}
+{"id": "59123474", "subject": "facility-personnel-offices", "relation": "points", "value": 180, "evidence": ["opposing-force/texture/bm_sign_dir_01"]}
+{"id": "594a24cc", "subject": "sector-b-line", "relation": "tram stop", "object": "area-9-security-checkpoint", "evidence": ["blue-shift/voice/ba_tram5"]}
+{"id": "59d9ad1d", "subject": "room-d-al-203", "relation": "exists", "evidence": ["decay/texture/signc1a2_1f"]}
+{"id": "5a0c41ee", "subject": "blue-line", "relation": "serves", "object": "sector-c", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "5aa7fd41", "subject": "lambda-complex", "relation": "across from", "object": "advanced-biological-research-lab", "evidence": ["half-life/voice/c2a4_sci_letout"]}
+{"id": "5b198830", "subject": "red-line", "relation": "serves", "object": "area-3-security", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "5c91f23d", "subject": "area-3-security", "relation": "exists", "evidence": ["blue-shift/texture/ba_sign_wall1", "ps2-half-life/manual/character-files-italian"]}
+{"id": "5cb03684", "subject": "qe-holding-pens", "relation": "exists", "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_lobby2"]}
+{"id": "5ccf63c6", "subject": "north-personnel-entrance", "relation": "leads to", "object": "topside", "evidence": ["field-intensity/texture/sign_north_01"]}
+{"id": "5d8cb333", "subject": "training-facility", "relation": "exists", "evidence": ["half-life/texture/trrm_sign5", "ps2-half-life/voice/tr_sci3_welcome"]}
+{"id": "5f0a31ce", "subject": "hydrofauna-level-c", "relation": "in", "object": "hydrofauna-studies-lab", "evidence": ["uplinked/texture/signmeup2"]}
+{"id": "5f65802f", "subject": "waste-station-03", "relation": "exists", "evidence": ["opposing-force/texture/door_sub_03"]}
+{"id": "6046d927", "subject": "employee-parking", "relation": "exists", "evidence": ["opposing-force/texture/sign_direct_01"]}
+{"id": "609b8c28", "subject": "sector-k", "relation": "exists", "evidence": ["echoes/texture/prxch0signs4"]}
+{"id": "61124849", "subject": "prop-lab-03", "relation": "in", "object": "experimental-propulsion-lab", "evidence": ["half-life/texture/c1a4_dr4c"]}
+{"id": "616d6b21", "subject": "topside-hazard-course-operations-center", "relation": "in", "object": "topside", "evidence": ["black-mesa/caption/C1A0_27"]}
+{"id": "617a5c17", "subject": "sector-e", "relation": "connects", "object": "sector-f", "evidence": ["field-intensity/texture/sign_sector_f"]}
+{"id": "619990d5", "subject": "coolant-exchange", "relation": "exists", "evidence": ["half-life/texture/sign83a"]}
+{"id": "61a324db", "subject": "air-control", "relation": "in", "object": "airfield", "evidence": ["ps2-decay/voice/d06_sci05_launch", "ps2-decay/voice/d06_sci11_allclear"]}
+{"id": "62b2d1ae", "subject": "fan-unit-2", "relation": "exists", "evidence": ["opposing-force/texture/sign76"]}
+{"id": "63853b22", "subject": "silo-e", "relation": "exists", "evidence": ["half-life/C2A1_4"]}
+{"id": "657a6b9a", "subject": "emergency-control-zone", "relation": "exists", "evidence": ["opposing-force/C1A0_1"]}
+{"id": "6588070d", "subject": "railroad-yard-turntable", "relation": "in", "object": "freight-yard", "evidence": ["blue-shift/texture/ba_sign_32"]}
+{"id": "673e26bc", "subject": "decay-cut-map-hangar", "relation": "exists", "evidence": ["ps2-decay/graph/ht08hangar"]}
+{"id": "67923134", "subject": "turbine-control", "relation": "exists", "evidence": ["half-life/texture/c2a5_sign1"]}
+{"id": "68481942", "subject": "aquatic-center", "relation": "in", "object": "level-3-dormitories", "evidence": ["field-intensity/texture/sign_map_dorms"]}
+{"id": "688f415a", "subject": "coolant-reservoir-facility", "relation": "in", "object": "sector-b", "evidence": ["half-life/comment/C1A1", "half-life/texture/c1a1sign3"]}
+{"id": "690009c1", "subject": "silo-32", "relation": "exists", "evidence": ["opposing-force/C1A0_3"]}
+{"id": "69a84782", "subject": "topside", "relation": "elevation", "value": 1229.3, "evidence": ["black-mesa/texture/signs/hangar_7"]}
+{"id": "69ebae05", "subject": "room-d-al-101", "relation": "exists", "evidence": ["half-life/texture/signc1a2_1a"]}
+{"id": "6a8baa33", "subject": "internal-security", "relation": "exists", "evidence": ["azure-sheep/texture/assign21"]}
+{"id": "6aaf4da9", "subject": "rocket-test-labs", "relation": "leads to", "object": "old-decommissioned-rail", "evidence": ["half-life/voice/c1a4_sci_trust"]}
+{"id": "6afc638f", "subject": "sector-a-administration", "relation": "in", "object": "sector-a", "evidence": ["field-intensity/texture/c1a0_w1d11"]}
+{"id": "6cc14db4", "subject": "coolant-reserve-facility", "relation": "exists", "evidence": ["opposing-force/texture/ba_power_03"]}
+{"id": "6d159919", "subject": "service-elevator", "relation": "exists", "evidence": ["opposing-force/texture/sign_direct_02"]}
+{"id": "6d9ca235", "subject": "helicopter-hangar-1", "relation": "in", "object": "topside", "evidence": ["half-life/comment/C2A5"]}
+{"id": "6f556e0e", "subject": "warehouse-basement", "relation": "in", "object": "freight-warehouse", "evidence": ["blue-shift/texture/ba_sign_27"]}
+{"id": "6f929377", "subject": "track-control", "relation": "exists", "evidence": ["half-life/texture/sign43"]}
+{"id": "7019b74c", "subject": "central-security-station", "relation": "controls", "object": "transit-lines", "evidence": ["ps2-decay/voice/ba_ht07_08"]}
+{"id": "71dee01a", "subject": "blue-line", "relation": "serves", "object": "sector-b", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "7243d5bc", "subject": "generator-control", "relation": "exists", "evidence": ["half-life/texture/sign82"]}
+{"id": "72eb49a8", "subject": "green-line", "relation": "serves", "object": "sector-a", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "73644d40", "subject": "research-lab-2", "relation": "exists", "evidence": ["opposing-force/C1A0_8"]}
+{"id": "739ec55b", "subject": "inspection-lab-6", "relation": "exists", "evidence": ["opposing-force/C1A0_5"]}
+{"id": "7533cb02", "subject": "green-line", "relation": "serves", "object": "sector-e", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "764bf930", "subject": "lambda-materials-storage-area", "relation": "in", "object": "lambda-complex", "evidence": ["black-mesa/caption/C1A0_34"]}
+{"id": "7666fc5e", "subject": "storage-area-3", "relation": "points", "value": 180, "evidence": ["opposing-force/texture/sign_direct_01"]}
+{"id": "76a2cc6c", "subject": "sector-g-main-access-lift", "relation": "serves", "object": "sector-g", "evidence": ["blue-shift/texture/ba_sign_wall4"]}
+{"id": "76ad233e", "subject": "dorm-rooms-307-to-312", "relation": "in", "object": "dorms-north-wing", "evidence": ["decay/texture/sign_dorm_n"]}
+{"id": "77bf6b56", "subject": "administration-center", "relation": "exists", "evidence": ["half-life/C1A1_9"]}
+{"id": "7a1cae03", "subject": "anomalous-materials-test-lab", "relation": "below", "object": "biodome-complex", "evidence": ["opposing-force/voice/of4a1_sc01"]}
+{"id": "7ac6aac5", "subject": "sector-j", "relation": "tram to", "object": "sector-k", "evidence": ["echoes/texture/prxch1trammap"]}
+{"id": "7ac71127", "subject": "service-elevator", "relation": "points", "value": 180, "evidence": ["opposing-force/texture/sign_direct_02"]}
+{"id": "7aced307", "subject": "lambda-sector-transport", "relation": "serves", "object": "lambda-complex", "evidence": ["opposing-force/texture/sign_lamtran"]}
+{"id": "7b4388d3", "subject": "admin-offices", "relation": "points", "value": 180, "evidence": ["half-life/texture/signc1a2_6"]}
+{"id": "7bb9034d", "subject": "qe-holding-pens", "relation": "points", "value": 0, "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_lobby2"]}
+{"id": "7be66504", "subject": "storage", "relation": "exists", "evidence": ["half-life/texture/signc1a2_5"]}
+{"id": "7c0a775f", "subject": "bunker-door", "relation": "in", "object": "landing-field", "evidence": ["half-life/voice/c2a5_sci_lebuz"]}
+{"id": "7d2b1a5f", "subject": "hydro-electric", "relation": "points", "value": 180, "evidence": ["black-mesa/texture/lab/c2a4x_arrowsign_001"]}
+{"id": "7f9d28f7", "subject": "train-yard", "relation": "exists", "evidence": ["blue-shift/texture/ba_sign_20"]}
+{"id": "7fbb95d6", "subject": "loading-dock", "relation": "exists", "evidence": ["opposing-force/texture/c1a3_sign6"]}
+{"id": "7fdfac62", "subject": "library", "relation": "near", "object": "level-3-dormitories", "evidence": ["decay/texture/wall_strp_01"]}
+{"id": "80572bba", "subject": "helicopter-hangar-1", "relation": "exists", "evidence": ["half-life/C1A0_17"]}
+{"id": "80a37d6d", "subject": "facility-personnel-offices", "relation": "exists", "evidence": ["opposing-force/texture/bm_sign_dir_01"]}
+{"id": "8142efa3", "subject": "prop-lab-02", "relation": "in", "object": "experimental-propulsion-lab", "evidence": ["half-life/texture/c1a4_dr4b"]}
+{"id": "82715ee6", "subject": "freight-yard", "relation": "leads to", "object": "old-prototype-labs", "evidence": ["blue-shift/voice/ro_yard_rose4"]}
+{"id": "83a33c61", "subject": "power-cell-charging-station", "relation": "exists", "evidence": ["opposing-force/texture/sign_pwr_01"]}
+{"id": "83cb9d31", "subject": "gamma-transportation", "relation": "exists", "evidence": ["decay/texture/dy_gamma_w1d1"]}
+{"id": "83e57e93", "subject": "sector-e-materials-transport", "relation": "in", "object": "sector-e", "evidence": ["black-mesa/texture/decals/sector_e_a", "half-life/texture/{c2a2_a"]}
+{"id": "83fb5a9e", "subject": "qe-lab-d", "relation": "points", "value": 0, "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_lobby2"]}
+{"id": "84620289", "subject": "aux-laser-c", "relation": "exists", "evidence": ["half-life/texture/c2a4_sign3"]}
+{"id": "847838c6", "subject": "qe-bio-chem-lab", "relation": "exists", "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_laba1"]}
+{"id": "858e72d8", "subject": "plasma-cells", "relation": "in", "object": "anomalous-materials-test-lab", "evidence": ["half-life/texture/c1a1a_sign1"]}
+{"id": "85c38414", "subject": "command-and-communication-center", "relation": "exists", "evidence": ["half-life/C1A0_8", "half-life/C1A3_3"]}
+{"id": "8737c115", "subject": "security-armory", "relation": "in", "object": "area-3-security", "evidence": ["blue-shift/texture/ba_sign_wall3"]}
+{"id": "876a8df4", "subject": "satellite-access-elevator", "relation": "leads to", "object": "satellite-dome", "evidence": ["half-life/voice/c3a1_sci_6sat"]}
+{"id": "894b7d0a", "subject": "data-chamber", "relation": "exists", "evidence": ["decay/texture/wall_strp_08"]}
+{"id": "8953c31f", "subject": "qe-bio-chem-lab", "relation": "points", "value": 0, "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_laba1"]}
+{"id": "89692d5a", "subject": "sector-b-sub-level-3", "relation": "in", "object": "sector-b", "evidence": ["black-mesa/caption/C1A1_08", "half-life/C1A1_8"]}
+{"id": "89be8b81", "subject": "waste-compactors", "relation": "exists", "evidence": ["opposing-force/texture/sign_access_02"]}
+{"id": "8b55cf9a", "subject": "library", "relation": "in", "object": "level-3-dormitories", "evidence": ["field-intensity/texture/sign_map_dorms"]}
+{"id": "8c076aa4", "subject": "security-7g", "relation": "exists", "evidence": ["half-life/texture/c1a3secdr02"]}
+{"id": "8c5cc836", "subject": "sector-g-level-1", "relation": "in", "object": "sector-g", "evidence": ["blue-shift/texture/ba_sign_elevato"]}
+{"id": "8d264ec2", "subject": "specimen-observation-area-03", "relation": "in", "object": "biodome-complex", "evidence": ["opposing-force/texture/sign_bio_ob_03"]}
+{"id": "8d520a4b", "subject": "toxic-waste-flush", "relation": "exists", "evidence": ["opposing-force/texture/sign_flush"]}
+{"id": "8d66bbd4", "subject": "track-control-wall-map", "relation": "in", "object": "track-control", "evidence": ["half-life/texture/tnnl_map"]}
+{"id": "8e3b86bb", "subject": "hydro-dam-login-office", "relation": "in", "object": "hydro-electric", "evidence": ["black-mesa/caption/C1A0_50"]}
+{"id": "8ef317cb", "subject": "silo-d-03", "relation": "in", "object": "silo-d", "evidence": ["half-life/texture/c1a4_sign1c"]}
+{"id": "8f7ecc9b", "subject": "medical-lab-6", "relation": "exists", "evidence": ["opposing-force/C1A0_7"]}
+{"id": "8ff0c358", "subject": "central-ventilation-access-shaft", "relation": "points", "value": 180, "evidence": ["half-life/texture/c1a3_sign7"]}
+{"id": "90efd172", "subject": "basin-a-03", "relation": "exists", "evidence": ["opposing-force/texture/sign_access_04"]}
+{"id": "91451a3e", "subject": "training-area", "relation": "leads to", "object": "surface", "evidence": ["ps2-decay/voice/dk_01_shortcut"]}
+{"id": "914750a3", "subject": "conference-room-b", "relation": "in", "object": "office-complex-level-6", "evidence": ["black-mesa/caption/C1A0_19"]}
+{"id": "914ae1d5", "subject": "dorm-rooms-319-to-324", "relation": "in", "object": "dorms-east-wing", "evidence": ["field-intensity/texture/sign_dorm_e"]}
+{"id": "9229f14b", "subject": "sector-g-level-4", "relation": "in", "object": "sector-g", "evidence": ["blue-shift/texture/ba_sign_elevato"]}
+{"id": "92a9212f", "subject": "sector-g-level-2", "relation": "in", "object": "sector-g", "evidence": ["blue-shift/texture/ba_sign_elevato"]}
+{"id": "92d09400", "subject": "sector-b", "relation": "near", "object": "sector-c", "evidence": ["black-mesa/caption/C1A1_06"]}
+{"id": "930c5ac9", "subject": "ionization-chambers", "relation": "in", "object": "anomalous-materials-test-lab", "evidence": ["half-life/texture/c1a1a_sign1"]}
+{"id": "9405342d", "subject": "area-3", "relation": "in", "object": "sector-c", "evidence": ["blue-shift/manual/14-memorandum", "blue-shift/manual/14-schedule"]}
+{"id": "94160719", "subject": "area-9-transit-hub", "relation": "near", "object": "inbound-tram", "evidence": ["black-mesa/label/bm_c0a0a/a - area9hub"]}
+{"id": "94721816", "subject": "materials-transport-a", "relation": "in", "object": "sector-e-materials-transport", "evidence": ["half-life/texture/{c2a2_a"]}
+{"id": "9765ff9f", "subject": "laser-containment-system", "relation": "exists", "evidence": ["decay/HT01_7"]}
+{"id": "98053e6e", "subject": "airlock", "relation": "exists", "evidence": ["opposing-force/texture/sign_airlock"]}
+{"id": "9869d392", "subject": "sector-d", "relation": "is", "object": "administration", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "98a04a30", "subject": "ordnance-storage-facility", "relation": "exists", "evidence": ["half-life/texture/c2a5_sign2"]}
+{"id": "98b28f1c", "subject": "dev-offices", "relation": "exists", "evidence": ["black-mesa/texture/signs/oc_sign"]}
+{"id": "98e9f230", "subject": "yellow-line", "relation": "serves", "object": "sector-f", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "9962a903", "subject": "test-silo", "relation": "exists", "evidence": ["black-mesa/caption/c1a4_allsystemsgo01"]}
+{"id": "99c57d80", "subject": "supply-d-301", "relation": "in", "object": "lambda-reactor-complex", "evidence": ["half-life/texture/c3a2sign35"]}
+{"id": "99df93d0", "subject": "sector-27", "relation": "exists", "evidence": ["opposing-force/C1A0_0"]}
+{"id": "9a373be3", "subject": "generator-room", "relation": "below", "object": "track-control", "evidence": ["half-life/voice/c2a1_ba_hub1a"]}
+{"id": "9a72c11b", "subject": "biodome-platform-1", "relation": "in", "object": "sector-e", "evidence": ["black-mesa/texture/lab/c2a4x_transitsign_001"]}
+{"id": "9b980916", "subject": "central-security-station", "relation": "exists", "evidence": ["ps2-decay/voice/ba_ht07_01", "ps2-decay/voice/d06_sci02_contact"]}
+{"id": "9bd767e1", "subject": "transport-level-a", "relation": "in", "object": "sector-e-subsurface-transport", "evidence": ["opposing-force/texture/c2a2a_sign2b"]}
+{"id": "9c56f5df", "subject": "qe-audio-lab", "relation": "points", "value": 0, "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_laba1"]}
+{"id": "9c92fc48", "subject": "specimen-observation-area-01", "relation": "in", "object": "biodome-complex", "evidence": ["opposing-force/texture/sign_bio_ob_01"]}
+{"id": "9de10b78", "subject": "small-materials-storage-area", "relation": "exists", "evidence": ["blue-shift/texture/sign_small"]}
+{"id": "9deaa68f", "subject": "dorm-rooms-313-to-318", "relation": "in", "object": "dorms-west-wing", "evidence": ["field-intensity/texture/sign_dorm_w", "induction/texture/sign_dorm_w"]}
+{"id": "9e10b7cb", "subject": "black-mesa-transport-hub", "relation": "in", "object": "sector-h", "evidence": ["echoes/texture/prxch0signs1"]}
+{"id": "9ea7f29c", "subject": "high-security-file-room", "relation": "near", "object": "area-9-transit-hub", "evidence": ["ps2-decay/voice/d06_sci05_launch"]}
+{"id": "9f3974a9", "subject": "anomalous-materials-labs-research", "relation": "exists", "evidence": ["half-life/texture/c1a0_wdsign"]}
+{"id": "a0fdc88b", "subject": "level-4-storage-unit", "relation": "exists", "evidence": ["opposing-force/voice/of6a4_ba03"]}
+{"id": "a185333d", "subject": "area-3-security", "relation": "in", "object": "area-3", "evidence": ["blue-shift/manual/14-memorandum"]}
+{"id": "a1bb50b4", "subject": "freight-yard-south-exit", "relation": "points", "value": 0, "evidence": ["blue-shift/texture/ba_sign_20"]}
+{"id": "a1cf6701", "subject": "sector-c-material-rail-system", "relation": "in", "object": "sector-c", "evidence": ["black-mesa/caption/C1A0_03"]}
+{"id": "a204153b", "subject": "sector-c", "relation": "is", "object": "test-labs", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "a2119134", "subject": "sector-f", "relation": "is", "object": "lambda-complex", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "a2f24a62", "subject": "area-4", "relation": "in", "object": "sector-a", "evidence": ["blue-shift/manual/14-schedule"]}
+{"id": "a346ea52", "subject": "qe-ces-chamber", "relation": "exists", "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_lobby2"]}
+{"id": "a3af1c6e", "subject": "biodome-complex", "relation": "in", "object": "sector-e", "evidence": ["field-intensity/texture/sign_sector_e"]}
+{"id": "a3cc6b67", "subject": "dorms-north-wing", "relation": "in", "object": "level-3-dormitories", "evidence": ["decay/texture/sign_dorm_north", "field-intensity/texture/sign_map_dorms"]}
+{"id": "a3f6f0e3", "subject": "test-lab-c-32a", "relation": "in", "object": "sector-c", "evidence": ["induction/texture/sign_c32a"]}
+{"id": "a415d00e", "subject": "black-mesa", "relation": "in", "object": "new-mexico", "evidence": ["hl-25th-documentary/documentary/51-26"]}
+{"id": "a4b9d3ab", "subject": "hydro-dam", "relation": "exists", "evidence": ["opposing-force/voice/of5a3_fg04"]}
+{"id": "a5ab7c93", "subject": "satellite-communications-center", "relation": "in", "object": "topside", "evidence": ["ps2-decay/voice/ro_02_madeit", "ps2-decay/voice/ro_03_surface"]}
+{"id": "a606d0c1", "subject": "train-yard", "relation": "points", "value": 180, "evidence": ["blue-shift/texture/ba_sign_20"]}
+{"id": "a6b3b16b", "subject": "storm-drain", "relation": "exists", "evidence": ["half-life/texture/c2a5w_sign"]}
+{"id": "a733aaa5", "subject": "primary-antenna", "relation": "exists", "evidence": ["half-life/C3A1_0"]}
+{"id": "a813e72a", "subject": "topside", "relation": "modelled on", "object": "eastern-washington", "evidence": ["hl-25th-documentary/documentary/00-11"]}
+{"id": "a88a0854", "subject": "osi-test-labs-01-to-09", "relation": "exists", "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_labd3"]}
+{"id": "a91eab18", "subject": "anomalous-materials-labs-development", "relation": "exists", "evidence": ["half-life/texture/c1a0_wdsign"]}
+{"id": "a9349999", "subject": "sector-e", "relation": "is", "object": "biodome-complex", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "a96093be", "subject": "biodome-administration", "relation": "in", "object": "biodome-complex", "evidence": ["decay/texture/dy_gamma_w1d1"]}
+{"id": "a997a2e4", "subject": "gamma-complex", "relation": "near", "object": "biodome-complex", "evidence": ["field-intensity/texture/biodome_wall01z"]}
+{"id": "aa2c35ee", "subject": "displacement-field-lab", "relation": "exists", "evidence": ["blue-shift/texture/sign_displc_01", "opposing-force/texture/sign_displc_01"]}
+{"id": "aac6a9c6", "subject": "hazardous-materials-bay-a", "relation": "in", "object": "lambda-reactor-complex", "evidence": ["half-life/texture/c3a2sign04"]}
+{"id": "ac373085", "subject": "sector-f-beacon-complex", "relation": "in", "object": "sector-f", "evidence": ["field-intensity/texture/sign_sector_f"]}
+{"id": "acb7d3ca", "subject": "checkpoint-delta", "relation": "in", "object": "topside", "evidence": ["half-life/C2A4_9", "half-life/comment/C2A5"]}
+{"id": "ad1cea34", "subject": "office-complex", "relation": "in", "object": "sector-d", "evidence": ["black-mesa/caption/C1A2_01", "black-mesa/texture/signs/secd_admin1"]}
+{"id": "ad56903d", "subject": "satellite-rocket-loading-bay", "relation": "exists", "evidence": ["half-life/C2A2_7"]}
+{"id": "ae9b9780", "subject": "anti-mass-spectrometer", "relation": "in", "object": "anomalous-materials-test-lab", "evidence": ["decay/texture/amass_sign"]}
+{"id": "ae9ce1ec", "subject": "sector-h", "relation": "tram to", "object": "sector-i", "evidence": ["echoes/texture/prxch1trammap"]}
+{"id": "b0ed3d8d", "subject": "air-control-room", "relation": "in", "object": "air-control-building", "evidence": ["ps2-decay/voice/dk_07_basement"]}
+{"id": "b2670c3a", "subject": "personnel-dormitories", "relation": "exists", "evidence": ["half-life/manual/2"]}
+{"id": "b288b138", "subject": "red-line", "relation": "serves", "object": "freight-yard", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "b3000fcd", "subject": "anomalous-materials-test-lab", "relation": "in", "object": "sector-c", "evidence": ["black-mesa/caption/uc.grd06.lobby.emergency_callout01b", "half-life/comment/C1A1"]}
+{"id": "b31fd80f", "subject": "level-8", "relation": "exists", "evidence": ["blue-shift/VOX_ELEV1"]}
+{"id": "b4e4cdfe", "subject": "cencom-bay-3-storage-a", "relation": "in", "object": "cencom-bay-3", "evidence": ["half-life/texture/signc3a1_4b"]}
+{"id": "b5af1a4b", "subject": "freight-warehouse", "relation": "points", "value": 180, "evidence": ["blue-shift/texture/ba_sign_20"]}
+{"id": "b5d22050", "subject": "waste-sector", "relation": "exists", "evidence": ["opposing-force/voice/of4a3_rd01"]}
+{"id": "b75d8009", "subject": "materials-transport-b", "relation": "in", "object": "sector-e-materials-transport", "evidence": ["half-life/texture/{c2a2_b"]}
+{"id": "b84bea38", "subject": "administration-sub-level-8", "relation": "in", "object": "administration", "evidence": ["black-mesa/caption/C1A0_28"]}
+{"id": "b86c05b5", "subject": "aux-laser-b", "relation": "exists", "evidence": ["half-life/texture/c2a4_sign2"]}
+{"id": "b8e2db4e", "subject": "freight-car-storage", "relation": "in", "object": "freight-yard", "evidence": ["blue-shift/texture/ba_sign_30"]}
+{"id": "b9584fb9", "subject": "lab-b-106", "relation": "in", "object": "lambda-reactor-complex", "evidence": ["half-life/texture/c3a2sign40"]}
+{"id": "b9670173", "subject": "biodome-platform-1", "relation": "serves", "object": "biodome-complex", "evidence": ["black-mesa/texture/lab/c2a4x_transitsign_001"]}
+{"id": "ba2323a7", "subject": "yellow-line", "relation": "serves", "object": "sector-d", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "babc5a8e", "subject": "high-security-materials-storage", "relation": "in", "object": "sector-d", "evidence": ["half-life/comment/C1A3"]}
+{"id": "bace5aad", "subject": "anomalous-materials-test-lab", "relation": "serves", "object": "sector-c", "evidence": ["half-life/C1A0_9"]}
+{"id": "bc4d2f19", "subject": "qe-bio-lab", "relation": "exists", "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_laba1"]}
+{"id": "bd2ea4d6", "subject": "launch-control", "relation": "exists", "evidence": ["half-life/C2A1_3", "half-life/texture/c2a2_launch"]}
+{"id": "bda880e2", "subject": "fuel-room", "relation": "exists", "evidence": ["half-life/texture/c1a4_sign2"]}
+{"id": "be049ad0", "subject": "freight-management-offices", "relation": "in", "object": "freight-yard", "evidence": ["blue-shift/texture/ba_sign_17"]}
+{"id": "be0f6f37", "subject": "launch-control", "relation": "in", "object": "satellite-rocket-loading-bay", "evidence": ["half-life/voice/c2a2_ba_launch"]}
+{"id": "be5696fd", "subject": "infirmary", "relation": "exists", "evidence": ["opposing-force/texture/sign_infirmary"]}
+{"id": "be8d4947", "subject": "qe-ces-chamber", "relation": "points", "value": 0, "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_lobby2"]}
+{"id": "bf388e34", "subject": "security-station", "relation": "exists", "evidence": ["ps2-decay/voice/ba_ht06_04"]}
+{"id": "bf71df42", "subject": "coolant-reservoir-facility", "relation": "points", "value": 180, "evidence": ["half-life/texture/c1a1sign3"]}
+{"id": "bf71eff8", "subject": "satellite-rocket-silo", "relation": "exists", "evidence": ["black-mesa/caption/C2A2B_1"]}
+{"id": "bfa7403c", "subject": "sector-b-line", "relation": "serves", "object": "sector-b", "evidence": ["blue-shift/texture/{sector_b_01"]}
+{"id": "bfb85a39", "subject": "barracks", "relation": "in", "object": "topside", "evidence": ["half-life/comment/C2A5"]}
+{"id": "bfd82457", "subject": "airfield", "relation": "above", "object": "area-9-transit-hub", "evidence": ["ps2-decay/voice/d06_sci05_launch", "ps2-decay/voice/d06_sci11_allclear"]}
+{"id": "c03f6d70", "subject": "biodome-complex", "relation": "near", "object": "hydro-electric", "evidence": ["black-mesa/texture/lab/c2a4x_arrowsign_001"]}
+{"id": "c1730001", "subject": "surface-access", "relation": "leads to", "object": "topside", "evidence": ["half-life/texture/c1a3_sign5"]}
+{"id": "c19f444d", "subject": "target-range", "relation": "in", "object": "training-facility", "evidence": ["half-life/texture/trrm_sign1"]}
+{"id": "c19f5ea8", "subject": "teleportation-labs", "relation": "in", "object": "lambda-complex", "evidence": ["half-life/voice/c3a2_sci_straws"]}
+{"id": "c19f95ce", "subject": "sector-d-admin-2", "relation": "in", "object": "office-complex", "evidence": ["black-mesa/texture/signs/secd_admin2"]}
+{"id": "c1b3cdb2", "subject": "silo-complex", "relation": "leads to", "object": "old-decommissioned-rail", "evidence": ["black-mesa/caption/wgh.sci05.transitsystemout02"]}
+{"id": "c20aaee3", "subject": "freight-yard-south-exit", "relation": "exists", "evidence": ["blue-shift/texture/ba_sign_20"]}
+{"id": "c2e8f504", "subject": "biodome-complex", "relation": "exists", "evidence": ["decay/texture/sign_biodome", "opposing-force/texture/sign_biodome"]}
+{"id": "c3652414", "subject": "topside-security-office", "relation": "in", "object": "topside", "evidence": ["black-mesa/caption/C1A0_25"]}
+{"id": "c3b73ab4", "subject": "anomalous-materials-operations-center", "relation": "exists", "evidence": ["decay/HT01_1"]}
+{"id": "c3cf3493", "subject": "drainage-canal", "relation": "near", "object": "freight-yard", "evidence": ["blue-shift/voice/sc_canals1"]}
+{"id": "c42a682f", "subject": "employee-elevator", "relation": "points", "value": 0, "evidence": ["opposing-force/texture/sign_direct_02"]}
+{"id": "c4ab8c7f", "subject": "supercooled-laser-lab", "relation": "exists", "evidence": ["half-life/C1A0_20"]}
+{"id": "c5adc59a", "subject": "test-firing-chamber", "relation": "in", "object": "lambda-reactor-complex", "evidence": ["half-life/texture/c3a2sign06"]}
+{"id": "c5b4c9cc", "subject": "specimen-testing-lab", "relation": "in", "object": "biodome-complex", "evidence": ["opposing-force/texture/sign_bio_test"]}
+{"id": "c667b381", "subject": "silo-d-levels-1-to-3", "relation": "in", "object": "silo-d", "evidence": ["half-life/texture/signc1a3_2a"]}
+{"id": "c6876e50", "subject": "dorms-west-wing", "relation": "in", "object": "level-3-dormitories", "evidence": ["field-intensity/texture/sign_map_dorms"]}
+{"id": "c744718d", "subject": "data-control-operations", "relation": "exists", "evidence": ["opposing-force/texture/sign54b"]}
+{"id": "c7e503a1", "subject": "cencom-1-to-15", "relation": "in", "object": "central-complex", "evidence": ["half-life/texture/signc2a4_2a"]}
+{"id": "c8262335", "subject": "transport-bay-a1", "relation": "in", "object": "transport-level-a", "evidence": ["opposing-force/texture/c2a2a_sign5a"]}
+{"id": "c8628469", "subject": "lambda-core-level-d", "relation": "in", "object": "main-reactor-core", "evidence": ["half-life/texture/c3a2sign30"]}
+{"id": "ca2f47a2", "subject": "lambda-coolant-system", "relation": "in", "object": "lambda-reactor-complex", "evidence": ["half-life/texture/c3a2sign18"]}
+{"id": "ca4a556e", "subject": "sector-g-main-access-lift", "relation": "in", "object": "sector-g", "evidence": ["blue-shift/voice/ba_security2_desk2"]}
+{"id": "ca741017", "subject": "hangar-7", "relation": "exists", "evidence": ["black-mesa/texture/signs/hangar_7"]}
+{"id": "ca7f4ec9", "subject": "dorms-east-wing", "relation": "in", "object": "level-3-dormitories", "evidence": ["field-intensity/texture/sign_map_dorms"]}
+{"id": "caa7e3e9", "subject": "car-park-levels-1-to-3", "relation": "in", "object": "car-park", "evidence": ["black-mesa/texture/decals/carpark_l1"]}
+{"id": "cac4590d", "subject": "transport-bay-a2", "relation": "in", "object": "transport-level-a", "evidence": ["opposing-force/texture/c2a2a_sign5b"]}
+{"id": "cb57d34f", "subject": "black-mesa", "relation": "near", "object": "albuquerque-nm", "evidence": ["black-mesa/texture/decals/papers/photos3"]}
+{"id": "cc4d8728", "subject": "waste-crushing-and-disposal", "relation": "near", "object": "drainage-canal", "evidence": ["blue-shift/texture/sign_waste"]}
+{"id": "cc975ad1", "subject": "freight-warehouse", "relation": "in", "object": "freight-yard", "evidence": ["blue-shift/texture/ba_sign_20", "blue-shift/texture/ba_sign_32"]}
+{"id": "cd99456b", "subject": "intake", "relation": "exists", "evidence": ["opposing-force/texture/sign_intake"]}
+{"id": "cde36a89", "subject": "cencom-high-security-research-labs", "relation": "in", "object": "central-complex", "evidence": ["half-life/texture/signc2a4_1", "uplinked/texture/cencomsign"]}
+{"id": "ce1ef53f", "subject": "cencom-lobby", "relation": "in", "object": "central-complex", "evidence": ["uplinked/texture/cencomsign"]}
+{"id": "ce39b284", "subject": "biodome-complex", "relation": "points", "value": 0, "evidence": ["black-mesa/texture/lab/c2a4x_arrowsign_001"]}
+{"id": "ce611883", "subject": "tactical-operations-center", "relation": "in", "object": "topside", "evidence": ["half-life/C1A0_0", "half-life/comment/C2A5"]}
+{"id": "ce82bd47", "subject": "steam-tunnels", "relation": "exists", "evidence": ["blue-shift/texture/ba_sign_21"]}
+{"id": "cf40c2d4", "subject": "anomalous-materials-laboratory", "relation": "exists", "evidence": ["half-life/manual/2"]}
+{"id": "d0b7bb6a", "subject": "lambda-labs", "relation": "exists", "evidence": ["ps2-decay/voice/d06_sci01_lambdalabs"]}
+{"id": "d10cb223", "subject": "cafeteria", "relation": "points", "value": 180, "evidence": ["half-life/texture/signc1a2_6"]}
+{"id": "d26e2e20", "subject": "chaos-theory-r-and-d", "relation": "exists", "evidence": ["half-life/texture/signc1a2_2"]}
+{"id": "d28f2a87", "subject": "lab-cages", "relation": "exists", "evidence": ["azure-sheep/texture/assign16"]}
+{"id": "d2bfe8e9", "subject": "sector-g", "relation": "is", "object": "hydro-electric", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "d43a8cb9", "subject": "green-line", "relation": "serves", "object": "area-7-recreational-facilities", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "d4667f21", "subject": "lambda-maintenance-station", "relation": "in", "object": "lambda-reactor-complex", "evidence": ["half-life/texture/c3a2sign10"]}
+{"id": "d468d95f", "subject": "area-9-loading-dock-and-storage-bays", "relation": "leads to", "object": "airfield", "evidence": ["ps2-decay/voice/ba_ht07_16"]}
+{"id": "d498f274", "subject": "power-generator", "relation": "exists", "evidence": ["half-life/texture/c1a4_sign3"]}
+{"id": "d5284492", "subject": "track-power", "relation": "exists", "evidence": ["half-life/texture/sign42"]}
+{"id": "d52fe397", "subject": "storage-area-2", "relation": "exists", "evidence": ["blue-shift/texture/ba_sign_16", "half-life/texture/{c1a3_org2", "opposing-force/texture/sign_direct_01", "opposing-force/texture/sign_str_02"]}
+{"id": "d5e4c70b", "subject": "gamma-labs", "relation": "exists", "evidence": ["ps2-decay/voice/dk_10_receiving"]}
+{"id": "d6c612c6", "subject": "helicopter-hangar-4", "relation": "in", "object": "topside", "evidence": ["half-life/C2A4_8", "half-life/comment/C2A5"]}
+{"id": "d6db6c77", "subject": "employee-elevator", "relation": "exists", "evidence": ["opposing-force/texture/sign_direct_02"]}
+{"id": "d717734e", "subject": "administration-levels-d1-to-d3", "relation": "in", "object": "administration", "evidence": ["half-life/texture/signc2a2_1"]}
+{"id": "d8166d8c", "subject": "biological-waste-processing-plant", "relation": "exists", "evidence": ["half-life/C1A2_0", "half-life/comment/C2A4"]}
+{"id": "d8e3d86d", "subject": "north-transportation-platform", "relation": "exists", "evidence": ["decay/HT05_5"]}
+{"id": "d9119465", "subject": "vent-gate-units-1-and-2", "relation": "leads to", "object": "topside", "evidence": ["half-life/texture/ventgraph"]}
+{"id": "d9f0e7e5", "subject": "silo-d", "relation": "leads to", "object": "old-decommissioned-rail", "evidence": ["half-life/voice/c1a4_sci_trust"]}
+{"id": "da61ade8", "subject": "qe-lab-d", "relation": "exists", "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_lobby2"]}
+{"id": "dabeea10", "subject": "silo-d", "relation": "exists", "evidence": ["half-life/texture/c1a3_dr1a", "half-life/texture/signc1a3_1"]}
+{"id": "db03d4da", "subject": "level-2", "relation": "exists", "evidence": ["blue-shift/texture/ba_pwr_01"]}
+{"id": "db93cf25", "subject": "lower-maintenance-chamber", "relation": "in", "object": "sub-sector-b", "evidence": ["opposing-force/C1A0_2"]}
+{"id": "dbac2dc9", "subject": "storage-area-1", "relation": "exists", "evidence": ["blue-shift/texture/ba_sign_16", "half-life/texture/{c1a3_grn1"]}
+{"id": "dbbc82a2", "subject": "section-a-17-prototype-labs", "relation": "exists", "evidence": ["blue-shift/texture/ba_sign_34"]}
+{"id": "dc760ff4", "subject": "satellite-communication-dish", "relation": "in", "object": "topside", "evidence": ["decay/HT01_6"]}
+{"id": "dd4e20ff", "subject": "cencom-power-generators-1-and-2", "relation": "in", "object": "central-complex", "evidence": ["uplinked/texture/cencomsign"]}
+{"id": "ddd401a1", "subject": "sector-e-line", "relation": "serves", "object": "sector-e", "evidence": ["blue-shift/texture/{sector_e_01"]}
+{"id": "debdc722", "subject": "sector-d-admin-2", "relation": "in", "object": "sector-d", "evidence": ["half-life/texture/signc1a2_6b"]}
+{"id": "e02ed008", "subject": "sector-j", "relation": "exists", "evidence": ["echoes/texture/prxch0signs4"]}
+{"id": "e06d0fef", "subject": "lambda-reactor", "relation": "leads to", "object": "teleportation-labs", "evidence": ["half-life/voice/c3a2_sci_straws"]}
+{"id": "e14cca26", "subject": "checkpoint-bravo", "relation": "in", "object": "topside", "evidence": ["half-life/C1A0_6", "half-life/comment/C2A5"]}
+{"id": "e15c21c2", "subject": "sector-c-line", "relation": "serves", "object": "area-3-security", "evidence": ["blue-shift/voice/ba_tram6"]}
+{"id": "e21d7a0e", "subject": "fuel-storage", "relation": "exists", "evidence": ["half-life/texture/out_fuel2"]}
+{"id": "e2b21ab2", "subject": "central-ventilation-access-shaft", "relation": "exists", "evidence": ["half-life/texture/c1a3_sign7"]}
+{"id": "e3734776", "subject": "water-treatment", "relation": "exists", "evidence": ["uplinked/texture/csign0"]}
+{"id": "e3b15d59", "subject": "primary-coolant-system", "relation": "exists", "evidence": ["half-life/C3A2_5"]}
+{"id": "e3d8f6c0", "subject": "level-3-dormitories", "relation": "tram to", "object": "sector-c", "evidence": ["black-mesa/caption/Inbound.Tram.03"]}
+{"id": "e3f6497c", "subject": "generator-room", "relation": "exists", "evidence": ["half-life/texture/sign84"]}
+{"id": "e4474754", "subject": "red-line", "relation": "serves", "object": "sector-g", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "e488d50e", "subject": "on-a-rail-silo-levels-0-to-4", "relation": "in", "object": "on-a-rail-missile-silo", "evidence": ["black-mesa/label/b_silo/lvl0 .. level3"]}
+{"id": "e4e482f8", "subject": "test-lab-bdrc-101", "relation": "in", "object": "biodome-complex", "evidence": ["opposing-force/texture/sign_bdrc"]}
+{"id": "e635058b", "subject": "qe-lab-a", "relation": "exists", "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_laba1"]}
+{"id": "e637ecce", "subject": "sector-d-admin-3", "relation": "in", "object": "sector-d", "evidence": ["half-life/texture/signc1a2_6c"]}
+{"id": "e6a7e154", "subject": "central-security-station", "relation": "controls", "object": "area-9-transit-hub", "evidence": ["ps2-decay/voice/ba_ht07_06", "ps2-decay/voice/ba_ht07_08"]}
+{"id": "e6d0eb06", "subject": "conference-room-a", "relation": "in", "object": "office-complex-level-6", "evidence": ["black-mesa/caption/C1A0_46"]}
+{"id": "e7de27c7", "subject": "waste-3-01", "relation": "exists", "evidence": ["opposing-force/texture/sign_access_05"]}
+{"id": "e8a98970", "subject": "gamma-complex", "relation": "in", "object": "sector-f", "evidence": ["field-intensity/texture/sign_sector_e"]}
+{"id": "e96491f6", "subject": "central-complex", "relation": "exists", "evidence": ["black-mesa/texture/decals/signs/c3a1a_sign_bm_central_complex", "half-life/texture/signc3a1_1"]}
+{"id": "e9c54d35", "subject": "auxiliary-reactor", "relation": "exists", "evidence": ["blue-shift/texture/sign_aux_react"]}
+{"id": "ea97b465", "subject": "area-9-transit-hub", "relation": "serves", "object": "high-security-trains", "evidence": ["black-mesa/caption/Inbound.Tram.03"]}
+{"id": "eb454d41", "subject": "hydro-dam", "relation": "modelled on", "object": "hoover-dam", "evidence": ["hl-25th-documentary/documentary/48-55"]}
+{"id": "eb4920d6", "subject": "area-2", "relation": "in", "object": "sector-b", "evidence": ["blue-shift/manual/14-schedule"]}
+{"id": "ebd01c03", "subject": "sector-e-wall-map", "relation": "in", "object": "sector-e", "evidence": ["decay/texture/dy_sector_sign"]}
+{"id": "ec8a78e3", "subject": "advanced-biological-research-lab", "relation": "exists", "evidence": ["half-life/C2A2_1", "half-life/comment/C2A4"]}
+{"id": "ec8b7d90", "subject": "fan-unit-1", "relation": "exists", "evidence": ["opposing-force/texture/sign75"]}
+{"id": "eca42693", "subject": "qe-rooms-a01-to-d07", "relation": "exists", "evidence": ["black-mesa/texture/lab/c2a4x_roomsign_001"]}
+{"id": "ede47421", "subject": "sector-h", "relation": "tram to", "object": "sector-j", "evidence": ["echoes/texture/prxch1trammap"]}
+{"id": "ee305065", "subject": "uranium-shipments", "relation": "serves", "object": "sector-d", "evidence": ["half-life/C1A0_22"]}
+{"id": "ee7e2249", "subject": "black-mesa", "relation": "in", "object": "southwestern-united-states", "evidence": ["half-life/texture/lab1_map1"]}
+{"id": "f031866f", "subject": "sector-c-elevator-1", "relation": "in", "object": "sector-c", "evidence": ["half-life/C1A1_5"]}
+{"id": "f11bd61e", "subject": "reservoir", "relation": "exists", "evidence": ["half-life/texture/lab1_resac"]}
+{"id": "f14d8cf3", "subject": "power-unit-1", "relation": "exists", "evidence": ["half-life/texture/sign77"]}
+{"id": "f15ea018", "subject": "old-prototype-labs", "relation": "older than", "object": "lambda-complex", "evidence": ["blue-shift/voice/ro_yard_rose2"]}
+{"id": "f1d415db", "subject": "sector-a", "relation": "is", "object": "training-facility", "evidence": ["blue-shift/texture/tram_map_01"]}
+{"id": "f1dcf963", "subject": "drainage-canal", "relation": "exists", "evidence": ["blue-shift/texture/ba_sign_18"]}
+{"id": "f20e7306", "subject": "lambda-core-level-b", "relation": "in", "object": "main-reactor-core", "evidence": ["half-life/texture/c3a2sign32"]}
+{"id": "f217f03f", "subject": "east-personnel-entrance", "relation": "leads to", "object": "topside", "evidence": ["blue-shift/texture/sign_east_01"]}
+{"id": "f2cdac96", "subject": "gamma-access-wing", "relation": "connects", "object": "biodome-complex", "evidence": ["decay/texture/dy_sign_biog1"]}
+{"id": "f3064627", "subject": "uplink-control-room", "relation": "exists", "evidence": ["decay/texture/sign_uplink_ctr"]}
+{"id": "f326bbf3", "subject": "power-up-train", "relation": "leads to", "object": "surface", "evidence": ["half-life/voice/c2a1_ba_hub1a"]}
+{"id": "f367348f", "subject": "diplomatic-relations-office", "relation": "exists", "evidence": ["half-life/texture/signc1a3_3"]}
+{"id": "f373c787", "subject": "qe-audio-lab", "relation": "exists", "evidence": ["black-mesa/texture/lab/c2a4x_directionsign_laba1"]}
+{"id": "f3a883f8", "subject": "aux-laser-a", "relation": "exists", "evidence": ["half-life/texture/c2a4_sign1"]}
+{"id": "f446ad44", "subject": "dev-offices", "relation": "points", "value": 180, "evidence": ["black-mesa/texture/signs/oc_sign"]}
+{"id": "f50860af", "subject": "submersible-docks", "relation": "exists", "evidence": ["uplinked/texture/csign1"]}
+{"id": "f524ee77", "subject": "room-d-al-201", "relation": "exists", "evidence": ["decay/texture/signc1a2_1d"]}
+{"id": "f58bed03", "subject": "sewer-3-01", "relation": "exists", "evidence": ["opposing-force/texture/sign_access_06"]}
+{"id": "f5babadb", "subject": "exec-lounge", "relation": "points", "value": 0, "evidence": ["half-life/texture/signc1a2_6"]}
+{"id": "f6a06c38", "subject": "lower-level-power-plant", "relation": "serves", "object": "track", "evidence": ["half-life/C2A1_0"]}
+{"id": "f7cc818f", "subject": "employee-recruitment-office", "relation": "in", "object": "area-1", "evidence": ["field-intensity/texture/fi_sign_ero"]}
+{"id": "f845047f", "subject": "observation-area", "relation": "exists", "evidence": ["half-life/texture/sign44c", "opposing-force/texture/sign44a"]}
+{"id": "f852a4cd", "subject": "aquatic-center", "relation": "near", "object": "level-3-dormitories", "evidence": ["decay/texture/wall_strp_02"]}
+{"id": "f8fb136d", "subject": "transport-bay-a3", "relation": "in", "object": "transport-level-a", "evidence": ["opposing-force/texture/c2a2a_sign5c"]}
+{"id": "f9beb00d", "subject": "rosenberg-labs", "relation": "near", "object": "train-yard", "evidence": ["ps2-decay/voice/dk_01_decision"]}
+{"id": "f9e65476", "subject": "sector-c-line", "relation": "tram stop", "object": "area-3-security", "evidence": ["blue-shift/voice/ba_tram7"]}
+{"id": "f9f7b106", "subject": "main-reactor-facility", "relation": "in", "object": "lambda-reactor-complex", "evidence": ["half-life/comment/C3A2"]}
+{"id": "fa10b382", "subject": "sector-d-admin-1", "relation": "in", "object": "sector-d", "evidence": ["half-life/texture/signc1a2_6a"]}
+{"id": "fa525388", "subject": "south-access-tunnel", "relation": "length", "value": 8046.7, "evidence": ["blue-shift/texture/sign_tunnel"]}
+{"id": "fb277ae7", "subject": "exterior-access", "relation": "leads to", "object": "topside", "evidence": ["opposing-force/texture/c1a4_sign1d"]}
+{"id": "fb3a59a5", "subject": "orange-flag-room", "relation": "exists", "evidence": ["opposing-force/texture/bm_sign_dir_01"]}
+{"id": "fcbd6e9d", "subject": "storage-area-2", "relation": "points", "value": 180, "evidence": ["opposing-force/texture/sign_direct_01"]}
+{"id": "fd26ccac", "subject": "sector-c-wall-map", "relation": "in", "object": "sector-c", "evidence": ["half-life/texture/signc1a1_1"]}
+{"id": "fd505dfd", "subject": "main-reactor-core", "relation": "exists", "evidence": ["half-life/C3A2_3"]}
+{"id": "fe646474", "subject": "exec-lounge", "relation": "points", "value": 0, "evidence": ["black-mesa/texture/signs/oc_sign"]}
+{"id": "feae34b7", "subject": "specimen-cultivation-room", "relation": "in", "object": "biodome-complex", "evidence": ["opposing-force/texture/sign_bio_cult"]}

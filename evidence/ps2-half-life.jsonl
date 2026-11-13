@@ -1,0 +1,2 @@
+{"id": "ps2-half-life/manual/character-files-italian", "source": "ps2-half-life", "kind": "manual", "file": "ps2-half-life-manual-it.txt", "sha256": "f06840101cc7b3798de47137de062c8e0eae5939573e6d86d5dfa5a999b6a69c", "ref": "page character files (Italian", "tier": 3}
+{"id": "ps2-half-life/voice/tr_sci3_welcome", "source": "ps2-half-life", "kind": "voice line", "file": "ps2-half-life/sound/scientist/tr_sci3_welcome.wav", "sha256": "78ad0465b2d39cc0f78898e871a0eafa8704e22965393a6c41989e69f526278b", "ref": "TR_SCI_INTRO3", "tier": 2, "heard_in": ["t0a0"]}

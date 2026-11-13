@@ -1,0 +1,12 @@
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/sources.jsonl
+!/places.jsonl
+!/facts.jsonl
+!/events.jsonl
+!/evidence/
+!/rules/
+!/maps/

@@ -1,0 +1,28 @@
+{
+ "half-life": {
+  "reference": "c0a0b",
+  "tolerance_m": 60,
+  "min_sky_m2": 500,
+  "about": "Maps with open sky must reach the surface: their lowest sky opening within tolerance of the reference map's (Inbound's canyon, the first sky the player sees). The tolerance covers canyon floors against mesa tops. Maps with less sky than min_sky_m2 (none, a skylight, a PS2 void) stay underground: their highest space at most the tolerance above the reference sky.",
+  "exclude": [
+   {
+    "map": "ht01accident",
+    "reason": "Decay: the sky texture caps two elevator shafts (22 m and 42 m deep) and a void, as the PS2 maps draw voids; the Operations Center lies under the test chamber"
+   }
+  ]
+ },
+ "opposing-force": {
+  "reference": "of1a2",
+  "tolerance_m": 60,
+  "min_sky_m2": 500,
+  "about": "For solving Opposing Force on its own: the first map in play order with open sky over its floors. When attached to Half-Life, Half-Life's reference applies.",
+  "exclude": []
+ },
+ "blue-shift": {
+  "reference": "ba_tram1",
+  "tolerance_m": 60,
+  "min_sky_m2": 500,
+  "about": "For solving Blue Shift on its own: the tram ride's canyon, the first sky seen. When attached to Half-Life, Half-Life's reference applies.",
+  "exclude": []
+ }
+}

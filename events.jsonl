@@ -1,0 +1,6 @@
+{"id": "barney-calhoun-tram-ride", "date": "05-16", "time": "08:42", "evidence": ["blue-shift/voice/ba_tram1", "half-life-wiki/wiki/Barney_Calhoun"]}
+{"id": "blue-shift-reassignment", "date": "05-15", "time": "09:00", "place": "area-3-security", "evidence": ["blue-shift/manual/14-memorandum"]}
+{"id": "freeman-offer-letter", "date": "05-05", "evidence": ["half-life/manual/2"]}
+{"id": "gordon-freeman-tram-ride", "date": "05-16", "time": "08:47", "evidence": ["half-life/voice/c0a0_tr_time", "combine-overwiki/wiki/Black_Mesa_Incident"]}
+{"id": "hazard-course-decathlon", "date": "05-16", "time": "19:00", "place": "level-3", "evidence": ["half-life/voice/c0a0_tr_tourn", "combine-overwiki/wiki/Black_Mesa_Incident"]}
+{"id": "resonance-cascade", "date": "05-16", "place": "test-chamber", "evidence": ["echoes/text/INTRO_DATE", "combine-overwiki/wiki/Black_Mesa_Incident"]}
